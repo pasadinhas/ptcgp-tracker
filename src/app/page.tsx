@@ -38,6 +38,7 @@ export default function Home() {
       <div className="grid grid-cols-8 gap-x-5 gap-y-5">
         {Array.from({ length: 286 }, (_, i) => `${i + 1}`).map((id) => (
           <DexItem
+            key={`A1_${id}`}
             id={id}
             amount={ownedCards.A1[id] || 0}
             increaseQuantity={() => {
@@ -79,6 +80,7 @@ function DexItem({
           ["mewtwo", "pikachu", "charizard"],
         ][Math.floor(Math.random() * 4)].map((pack) => (
           <Image
+            key={`card_A1_${id}_pack_${pack}`}
             src={`/static/pokemon/sets/A1/packs/${pack}.png`}
             alt="Pack"
             width={80}
