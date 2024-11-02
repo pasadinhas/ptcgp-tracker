@@ -1,13 +1,54 @@
+"use client";
+
 import Image from "next/image";
+import { useEffect, useState } from "react";
+
+const LOCAL_STORAGE_OWNED_CARDS_KEY = "pkmn-tcgp-tracker.owned-cards";
+
+interface OwnedCards {
+  A1: SetOwnedCards;
+}
+
+interface SetOwnedCards {
+  [id: string]: number;
+}
 
 export default function Home() {
+  const [ownedCards, setOwnedCards] = useState<OwnedCards>({ A1: {} });
+
+  useEffect(() => {
+    const storedOwnedCards = localStorage.getItem(
+      LOCAL_STORAGE_OWNED_CARDS_KEY
+    );
+    if (storedOwnedCards != null) {
+      setOwnedCards(JSON.parse(storedOwnedCards));
+    }
+  }, []);
+
+  const saveOwnedCards = (newOwnedCards: OwnedCards) => {
+    setOwnedCards({ ...newOwnedCards });
+    localStorage.setItem(
+      LOCAL_STORAGE_OWNED_CARDS_KEY,
+      JSON.stringify(newOwnedCards)
+    );
+  };
+
   return (
     <div className="p-10">
       <div className="grid grid-cols-8 gap-x-5 gap-y-5">
-        {Array.from({ length: 286 }, (_, i) => i + 1).map((i) => (
+        {Array.from({ length: 286 }, (_, i) => `${i + 1}`).map((id) => (
           <DexItem
-            number={i}
-            amount={[0, 1, 2][Math.floor(Math.random() * 3)]}
+            id={id}
+            amount={ownedCards.A1[id] || 0}
+            increaseQuantity={() => {
+              ownedCards.A1[id] = (ownedCards.A1[id] || 0) + 1;
+              console.log(ownedCards.A1);
+              saveOwnedCards(ownedCards);
+            }}
+            decreaseQuantity={() => {
+              ownedCards.A1[id] = Math.max(0, (ownedCards.A1[id] || 0) - 1);
+              saveOwnedCards(ownedCards);
+            }}
           />
         ))}
       </div>
@@ -15,7 +56,19 @@ export default function Home() {
   );
 }
 
-function DexItem({ number, amount }: { number: number; amount: number }) {
+interface DexItemProps {
+  id: string;
+  amount: number;
+  increaseQuantity: () => void;
+  decreaseQuantity: () => void;
+}
+
+function DexItem({
+  id,
+  amount,
+  increaseQuantity,
+  decreaseQuantity,
+}: DexItemProps) {
   return (
     <div className="grid justify-center gap-3 shadow-xl bg-slate-200 p-3 rounded-lg">
       <div className="flex justify-center gap-3 relative">
@@ -35,7 +88,7 @@ function DexItem({ number, amount }: { number: number; amount: number }) {
         ))}
       </div>
       <Image
-        src={`/static/pokemon/sets/A1/cards/${number}.png`}
+        src={`/static/pokemon/sets/A1/cards/${id}.png`}
         alt="Some pokemon card..."
         width={294}
         height={410}
@@ -43,10 +96,20 @@ function DexItem({ number, amount }: { number: number; amount: number }) {
           amount == 0 && "brightness-50 grayscale-[50%]"
         }`}
       ></Image>
-      <div className="flex justify-center">
-        <span className="rounded-l-lg bg-slate-300 px-5 py-1">-</span>
+      <div className="flex justify-center select-none">
+        <span
+          className="rounded-l-lg bg-slate-300 px-5 py-1 cursor-pointer hover:bg-slate-400 active:bg-slate-500"
+          onClick={decreaseQuantity}
+        >
+          -
+        </span>
         <span className="bg-slate-200 px-5 py-1">{amount}</span>
-        <span className="rounded-r-lg bg-slate-300 px-5 py-1">+</span>
+        <span
+          className="rounded-r-lg bg-slate-300 px-5 py-1 cursor-pointer hover:bg-slate-400 active:bg-slate-500"
+          onClick={increaseQuantity}
+        >
+          +
+        </span>
       </div>
     </div>
   );
