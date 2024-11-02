@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <div className="p-10">
-      <div className="grid grid-cols-8 gap-x-5 gap-y-5">
+      <div className="grid 2xl:grid-cols-8 xl:grid-cols-6 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 grid-rows-auto auto-cols-min gap-x-5 gap-y-5">
         {Array.from({ length: 286 }, (_, i) => `${i + 1}`).map((id) => (
           <DexItem
             key={`A1_${id}`}
@@ -71,7 +71,7 @@ function DexItem({
   decreaseQuantity,
 }: DexItemProps) {
   return (
-    <div className="grid justify-center gap-3 shadow-xl bg-slate-200 p-3 rounded-lg">
+    <div className="grid justify-center gap-3 shadow-xl bg-slate-300 p-3 rounded-lg">
       <div className="flex justify-center gap-3 relative">
         {[
           ["mewtwo"],
@@ -100,14 +100,14 @@ function DexItem({
       ></Image>
       <div className="flex justify-center select-none">
         <span
-          className="rounded-l-lg bg-slate-300 px-5 py-1 cursor-pointer hover:bg-slate-400 active:bg-slate-500"
+          className="rounded-l-lg bg-slate-400 px-5 py-1 cursor-pointer hover:bg-slate-500 active:bg-slate-600"
           onClick={decreaseQuantity}
         >
           -
         </span>
-        <span className="bg-slate-200 px-5 py-1">{amount}</span>
+        <span className="bg-slate-300 px-5 py-1">{amount}</span>
         <span
-          className="rounded-r-lg bg-slate-300 px-5 py-1 cursor-pointer hover:bg-slate-400 active:bg-slate-500"
+          className="rounded-r-lg bg-slate-400 px-5 py-1 cursor-pointer hover:bg-slate-500 active:bg-slate-600"
           onClick={increaseQuantity}
         >
           +
