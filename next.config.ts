@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  basePath: '/ptcgp-tracker',
-  assetPrefix: '/ptcgp-tracker/',
+  basePath: "/ptcgp-tracker",
+  assetPrefix: "/ptcgp-tracker/",
+  output: "export",
+  images: { unoptimized: true },
 };
 
 export default nextConfig;
