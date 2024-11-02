@@ -81,7 +81,7 @@ function DexItem({
         ][Math.floor(Math.random() * 4)].map((pack) => (
           <Image
             key={`card_A1_${id}_pack_${pack}`}
-            src={`/static/pokemon/sets/A1/packs/${pack}.png`}
+            src={`/ptcgp-tracker/static/pokemon/sets/A1/packs/${pack}.png`}
             alt="Pack"
             width={80}
             height={29}
@@ -90,7 +90,7 @@ function DexItem({
         ))}
       </div>
       <Image
-        src={`/static/pokemon/sets/A1/cards/${id}.png`}
+        src={`/ptcgp-tracker/static/pokemon/sets/A1/cards/${id}.png`}
         alt="Some pokemon card..."
         width={294}
         height={410}
