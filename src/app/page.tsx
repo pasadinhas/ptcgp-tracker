@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <div className="p-10">
       <div>
-        <PackOdds ownedCards={ownedCards} />
+        <PackOddsGrid ownedCards={ownedCards} />
       </div>
       <div className="grid 2xl:grid-cols-8 xl:grid-cols-6 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 grid-rows-auto auto-cols-min gap-x-5 gap-y-5">
         {Array.from({ length: 286 }, (_, i) => `${i + 1}`).map((id) => (
@@ -111,7 +111,7 @@ function DexItem({ id, amount, card, increaseQuantity, decreaseQuantity }: DexIt
 // Pack Odds
 //
 
-function PackOdds({ ownedCards }: { ownedCards: OwnedCards }) {
+function PackOddsGrid({ ownedCards }: { ownedCards: OwnedCards }) {
   const packsOdds = useMemo(() => odds(ownedCards), [ownedCards]);
 
   return (
