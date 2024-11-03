@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
-import { OwnedCards, RarityMap, PackOdds, CardsMap, Card } from "./types";
+import { OwnedCards, PackOdds, CardsMap, Card } from "./types";
 import odds from "./odds";
 import A1 from "../data/A1.json"
 import Constants from "./constants";
@@ -118,11 +118,11 @@ function PackOddsGrid({ ownedCards }: { ownedCards: OwnedCards }) {
     <div className="grid grid-cols-10 mb-10">
       <span>Pack</span>
       {Object.keys(packsOdds.mewtwo.packsUntilFirstNewCard).map((rarity) => (
-        <span>{rarity}</span>
+        <span key={rarity}>{rarity}</span>
       ))}
       {Object.entries(packsOdds).flatMap(([packName, pOdds]: [string, PackOdds]) => [
-        <td>{packName}</td>,
-        ...Object.values(pOdds.packsUntilFirstNewCard).map((odd) => <td>{odd}</td>),
+        <span key={`odds-${packName}`}>{packName}</span>,
+        ...Object.values(pOdds.packsUntilFirstNewCard).map((odd, i) => <span key={`odds-${packName}-${i}`}>{odd}</span>),
       ])}
     </div>
   );
