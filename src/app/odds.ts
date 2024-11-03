@@ -1,27 +1,12 @@
 import A1 from "../data/A1.json";
 import { OwnedCards, PackOddsSetA1, RarityMap } from "./types";
-
+import Constants from "./constants"
 type SetData = typeof A1;
 type Card = SetData[0];
 
 interface PackDefinition {
   [rarity: string]: Card[];
 }
-
-const RARITY_REGULAR_1 = "◇";
-const RARITY_REGULAR_2 = "◇◇";
-const RARITY_REGULAR_3 = "◇◇◇";
-const RARITY_REGULAR_4 = "◇◇◇◇";
-const RARITY_STAR_1 = "☆";
-const RARITY_STAR_2 = "☆☆";
-const RARITY_STAR_3 = "☆☆☆";
-const RARITY_CROWN = "♛";
-const RARITY_ANY = "Any";
-
-const A1_PACK_MEWTWO = "Genetic Apex (A1)  Mewtwo";
-const A1_PACK_PIKACHU = "Genetic Apex (A1)  Pikachu";
-const A1_PACK_CHARIZARD = "Genetic Apex (A1)  Charizard";
-const A1_PACK_ANY = "Genetic Apex (A1)  Any";
 
 function getRandomElement<T>(array: T[]) {
   return array[Math.floor(Math.random() * array.length)];
@@ -51,7 +36,7 @@ function weightedRandomSelect(choices: WeightedChoice[]): string {
 
 function createPackDefinition(data: SetData, pack: string): PackDefinition {
   return data
-    .filter((card) => card.pack == pack || card.pack == A1_PACK_ANY)
+    .filter((card) => card.pack == pack || card.pack == Constants.A1_PACK_ANY)
     .reduce((result: PackDefinition, card: Card) => {
       if (!result[card.rarity]) {
         result[card.rarity] = [];
@@ -61,26 +46,26 @@ function createPackDefinition(data: SetData, pack: string): PackDefinition {
     }, {});
 }
 
-const REGULAR_PACK_CARD_1_ODDS = [{ value: RARITY_REGULAR_1, weight: 1 }];
+const REGULAR_PACK_CARD_1_ODDS = [{ value: Constants.RARITY_REGULAR_1, weight: 1 }];
 const REGULAR_PACK_CARD_2_ODDS = REGULAR_PACK_CARD_1_ODDS;
 const REGULAR_PACK_CARD_3_ODDS = REGULAR_PACK_CARD_1_ODDS;
 const REGULAR_PACK_CARD_4_ODDS = [
-  { value: RARITY_REGULAR_2, weight: 0.90_000 },
-  { value: RARITY_REGULAR_3, weight: 0.05_000 },
-  { value: RARITY_REGULAR_4, weight: 0.01_666 },
-  { value: RARITY_STAR_1, weight: 0.02_573 },
-  { value: RARITY_STAR_2, weight: 0.00_500 },
-  { value: RARITY_STAR_3, weight: 0.00_222 },
-  { value: RARITY_CROWN, weight: 0.00_040 },
+  { value: Constants.RARITY_REGULAR_2, weight: 0.90_000 },
+  { value: Constants.RARITY_REGULAR_3, weight: 0.05_000 },
+  { value: Constants.RARITY_REGULAR_4, weight: 0.01_666 },
+  { value: Constants.RARITY_STAR_1, weight: 0.02_573 },
+  { value: Constants.RARITY_STAR_2, weight: 0.00_500 },
+  { value: Constants.RARITY_STAR_3, weight: 0.00_222 },
+  { value: Constants.RARITY_CROWN, weight: 0.00_040 },
 ];
 const REGULAR_PACK_CARD_5_ODDS = [
-  { value: RARITY_REGULAR_2, weight: 0.60_000 },
-  { value: RARITY_REGULAR_3, weight: 0.20_000 },
-  { value: RARITY_REGULAR_4, weight: 0.06_664 },
-  { value: RARITY_STAR_1, weight: 0.10_288 },
-  { value: RARITY_STAR_2, weight: 0.02_000 },
-  { value: RARITY_STAR_3, weight: 0.00_888 },
-  { value: RARITY_CROWN, weight: 0.00_160 },
+  { value: Constants.RARITY_REGULAR_2, weight: 0.60_000 },
+  { value: Constants.RARITY_REGULAR_3, weight: 0.20_000 },
+  { value: Constants.RARITY_REGULAR_4, weight: 0.06_664 },
+  { value: Constants.RARITY_STAR_1, weight: 0.10_288 },
+  { value: Constants.RARITY_STAR_2, weight: 0.02_000 },
+  { value: Constants.RARITY_STAR_3, weight: 0.00_888 },
+  { value: Constants.RARITY_CROWN, weight: 0.00_160 },
 ];
 
 function rollRegularPack(pack_definition: PackDefinition) {
@@ -105,15 +90,15 @@ function idMapper(id: string): string {
 }
 
 const RARITY_MAP_ZERO_INIT: RarityMap = Object.freeze({
-  [RARITY_REGULAR_1]: 0,
-  [RARITY_REGULAR_2]: 0,
-  [RARITY_REGULAR_3]: 0,
-  [RARITY_REGULAR_4]: 0,
-  [RARITY_STAR_1]: 0,
-  [RARITY_STAR_2]: 0,
-  [RARITY_STAR_3]: 0,
-  [RARITY_CROWN]: 0,
-  [RARITY_ANY]: 0,
+  [Constants.RARITY_REGULAR_1]: 0,
+  [Constants.RARITY_REGULAR_2]: 0,
+  [Constants.RARITY_REGULAR_3]: 0,
+  [Constants.RARITY_REGULAR_4]: 0,
+  [Constants.RARITY_STAR_1]: 0,
+  [Constants.RARITY_STAR_2]: 0,
+  [Constants.RARITY_STAR_3]: 0,
+  [Constants.RARITY_CROWN]: 0,
+  [Constants.RARITY_ANY]: 0,
 });
 
 function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards, rolls: number) {
@@ -130,7 +115,7 @@ function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards
 
     newCards.forEach((card) => {
       newCardsCount[card.rarity] += 1;
-      newCardsCount[RARITY_ANY] += 1;
+      newCardsCount[Constants.RARITY_ANY] += 1;
       packedRarities.add(card.rarity);
     });
 
@@ -138,7 +123,7 @@ function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards
       newRaritiesCount[rarity] += 1;
     });
     if (newCards.length > 0) {
-      newRaritiesCount[RARITY_ANY] += 1;
+      newRaritiesCount[Constants.RARITY_ANY] += 1;
     }
   }
 
@@ -159,9 +144,9 @@ function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards
   };
 }
 
-const A1_PACK_MEWTWO_DEFINITION = createPackDefinition(A1, A1_PACK_MEWTWO);
-const A1_PACK_PIKACHU_DEFINITION = createPackDefinition(A1, A1_PACK_PIKACHU);
-const A1_PACK_CHARIZARD_DEFINITION = createPackDefinition(A1, A1_PACK_CHARIZARD);
+const A1_PACK_MEWTWO_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_MEWTWO);
+const A1_PACK_PIKACHU_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_PIKACHU);
+const A1_PACK_CHARIZARD_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_CHARIZARD);
 
 export default function odds(ownedCards: OwnedCards, rolls: number = 100_000): PackOddsSetA1 {
   return {
