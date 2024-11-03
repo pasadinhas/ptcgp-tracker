@@ -1,4 +1,4 @@
-export default {
+const Constants = {
   RARITY_REGULAR_1: "◇",
   RARITY_REGULAR_2: "◇◇",
   RARITY_REGULAR_3: "◇◇◇",
@@ -14,4 +14,6 @@ export default {
   A1_PACK_CHARIZARD: "Genetic Apex (A1)  Charizard",
   A1_PACK_SPECIAL: "Genetic Apex (A1)  Special",
   A1_PACK_ANY: "Genetic Apex (A1)  Any",
-}
+};
+
+export default Constants;
