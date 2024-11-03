@@ -1,0 +1,6983 @@
+[
+  {
+      "id": "A1 001",
+      "name": "Bulbasaur",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Vine Whip",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 002",
+      "name": "Ivysaur",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Leaf",
+              "cost": [
+                  "Grass",
+                  "Colorless 2"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 003",
+      "name": "Venusaur",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 160,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mega Drain",
+              "cost": [
+                  "Grass 2",
+                  "Colorless 2"
+              ],
+              "description": "80\nHeal 30 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 004",
+      "name": "Venusaur ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 190,
+      "stage": "Stage 2",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Leaf",
+              "cost": [
+                  "Grass",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Giant Bloom",
+              "cost": [
+                  "Grass 2",
+                  "Colorless 2"
+              ],
+              "description": "100\nHeal 30 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 005",
+      "name": "Caterpie",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Find a Friend",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "Put 1 random Grass Pokemon from your deck into your hand."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 006",
+      "name": "Metapod",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bug Bite",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 007",
+      "name": "Butterfree",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Powder Heal",
+          "description": "Once during your turn, you may heal 20 damage from each of your Pokemon."
+      },
+      "attacks": [
+          {
+              "name": "Gust",
+              "cost": [
+                  "Grass",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 008",
+      "name": "Weedle",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sting",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 009",
+      "name": "Kakuna",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bug Bite",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 010",
+      "name": "Beedrill",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sharp Sting",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 011",
+      "name": "Oddish",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ram",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 012",
+      "name": "Gloom",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Drool",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 013",
+      "name": "Vileplume",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Soothing Scent",
+              "cost": [
+                  "Grass 2",
+                  "Colorless"
+              ],
+              "description": "80\nYour opponent's Active Pokemon is now Asleep."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 014",
+      "name": "Paras",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Scratch",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 015",
+      "name": "Parasect",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Grass 2",
+                  "Colorless"
+              ],
+              "description": "80"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 016",
+      "name": "Venonat",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 017",
+      "name": "Venomoth",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Poison Powder",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "30\nYour opponent's Active Pokemon is now Poisoned."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 018",
+      "name": "Bellsprout",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Vine Whip",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 019",
+      "name": "Weepinbell",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Leaf",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 020",
+      "name": "Victreebel",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Fragrance Trap",
+          "description": "If this Pokemon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokemon to the Active Spot."
+      },
+      "attacks": [
+          {
+              "name": "Vine Whip",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 021",
+      "name": "Exeggcute",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Seed Bomb",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 022",
+      "name": "Exeggutor",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Stomp",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "30+\nFlip a coin. If heads, this attack does 30 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 023",
+      "name": "Exeggutor ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 160,
+      "stage": "Stage 1",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tropical Swing",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "40+\nFlip a coin. If heads, this attack does 40 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 024",
+      "name": "Tangela",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Absorb",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40\nHeal 30 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 025",
+      "name": "Scyther",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sharp Scythe",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 026",
+      "name": "Pinsir",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Double Horn",
+              "cost": [
+                  "Grass 2"
+              ],
+              "description": "50x\nFlip 2 coins. This attack does 50 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 027",
+      "name": "Cottonee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Attach",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 028",
+      "name": "Whimsicott",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rolling Tackle",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 029",
+      "name": "Petilil",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Blot",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "10\nHeal 10 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 030",
+      "name": "Lilligant",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Leaf Supply",
+              "cost": [
+                  "Grass 2"
+              ],
+              "description": "50\nTake a Grass Energy from your Energy Zone and attach it to 1 of your Benched Grass Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 031",
+      "name": "Skiddo",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Surprise Attack",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40\nFlip a coin. If tails, this attack does nothing."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 032",
+      "name": "Gogoat",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Leaf",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 033",
+      "name": "Charmander",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ember",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "30\nDiscard a Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 034",
+      "name": "Charmeleon",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Claws",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 035",
+      "name": "Charizard",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Spin",
+              "cost": [
+                  "Fire 2",
+                  "Colorless 2"
+              ],
+              "description": "150\nDiscard 2 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 036",
+      "name": "Charizard ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Crimson Storm",
+              "cost": [
+                  "Fire 2",
+                  "Colorless 2"
+              ],
+              "description": "200\nDiscard 2 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 037",
+      "name": "Vulpix",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Whip",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "Flip a coin. If heads, the Defending Pokemon can't attack during your opponent's next turn."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 038",
+      "name": "Ninetales",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flamethrower",
+              "cost": [
+                  "Fire 2"
+              ],
+              "description": "90\nDiscard a Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 039",
+      "name": "Growlithe",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bite",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 040",
+      "name": "Arcanine",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fire",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Heat Tackle",
+              "cost": [
+                  "Fire 2",
+                  "Colorless"
+              ],
+              "description": "100\nThis Pokemon also does 20 damage to itself."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 041",
+      "name": "Arcanine ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage 1",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Inferno Onrush",
+              "cost": [
+                  "Fire 2",
+                  "Colorless"
+              ],
+              "description": "120\nThis Pokemon also does 20 damage to itself."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 042",
+      "name": "Ponyta",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flare",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 043",
+      "name": "Rapidash",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Mane",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 044",
+      "name": "Magmar",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Magma Punch",
+              "cost": [
+                  "Fire 2"
+              ],
+              "description": "50"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 045",
+      "name": "Flareon",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flamethrower",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "110\nDiscard 1 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 046",
+      "name": "Moltres",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sky Attack",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "130\nFlip a coin. If tails, this attack does nothing."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 047",
+      "name": "Moltres ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Inferno Dance",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokemon in any way you like."
+          },
+          {
+              "name": "Heat Blast",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 048",
+      "name": "Heatmor",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Combustion",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 049",
+      "name": "Salandit",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Scratch",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 050",
+      "name": "Salazzle",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Claws",
+              "cost": [
+                  "Fire",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 051",
+      "name": "Sizzlipede",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gnaw",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 052",
+      "name": "Centiskorch",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Blast",
+              "cost": [
+                  "Fire",
+                  "Colorless 3"
+              ],
+              "description": "130\nDiscard a Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 053",
+      "name": "Squirtle",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Gun",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 054",
+      "name": "Wartortle",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Wave  Splash",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 055",
+      "name": "Blastoise",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hydro Pump",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "80+\nIf this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 056",
+      "name": "Blastoise ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Surf",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          },
+          {
+              "name": "Hydro Bazooka",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "100+\nIf this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 057",
+      "name": "Psyduck",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Headache",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10\nYour opponent can’t play Supporter cards from their hand during their next turn."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 058",
+      "name": "Golduck",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Aqua Edge",
+              "cost": [
+                  "Water 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 059",
+      "name": "Poliwag",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Fin",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 060",
+      "name": "Poliwhirl",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Knuckle Punch",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 061",
+      "name": "Poliwrath",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Counterattack",
+          "description": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the Attacking Pokemon."
+      },
+      "attacks": [
+          {
+              "name": "Mega Punch",
+              "cost": [
+                  "Water",
+                  "Colorless 2"
+              ],
+              "description": "80"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 062",
+      "name": "Tentacool",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gentle Slap",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 063",
+      "name": "Tentacruel",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 110,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Poison Tentacles",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "50\nYour opponent's Active Pokemon is now Poisoned."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 064",
+      "name": "Seel",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Headbutt",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 065",
+      "name": "Dewgong",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Surf",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "90"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 066",
+      "name": "Shellder",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tongue Slap",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 067",
+      "name": "Cloyster",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": {
+          "name": "Shell Armor",
+          "description": "This Pokemon takes -10 damage from attacks."
+      },
+      "attacks": [
+          {
+              "name": "Surf",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 068",
+      "name": "Krabby",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Vise Grip",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 069",
+      "name": "Kingler",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "KO Crab",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "80+\nFlip 2 coins. If both of them are heads, this attack does 80 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 070",
+      "name": "Horsea",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Gun",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 071",
+      "name": "Seadra",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 70,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Arrow",
+              "cost": [
+                  "Water 3"
+              ],
+              "description": "This attack does 50 damage to 1 of your opponent's Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 072",
+      "name": "Goldeen",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flop",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 073",
+      "name": "Seaking",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Horn Hazard",
+              "cost": [
+                  "Water"
+              ],
+              "description": "80\nFlip a coin. If tails, this attack does nothing."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 074",
+      "name": "Staryu",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Smack",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 075",
+      "name": "Starmie",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Wave Splash",
+              "cost": [
+                  "Water"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 076",
+      "name": "Starmie ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hydro Splash",
+              "cost": [
+                  "Water 2"
+              ],
+              "description": "90"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 077",
+      "name": "Magikarp",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 30,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Splash",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 078",
+      "name": "Gyarados",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 150,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hyper Beam",
+              "cost": [
+                  "Water 4"
+              ],
+              "description": "100\nDiscard a random Energy from your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 079",
+      "name": "Lapras",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hydro Pump",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20+\nIf this Pokemon has at least 3 extra Water Energy attached, this attack does 60 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 080",
+      "name": "Vaporeon",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bubble Drain",
+              "cost": [
+                  "Water",
+                  "Colorless 2"
+              ],
+              "description": "60\nHeal 30 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 081",
+      "name": "Omanyte",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Gun",
+              "cost": [
+                  "Water"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 082",
+      "name": "Omastar",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ancient Whirlpool",
+              "cost": [
+                  "Water",
+                  "Colorless 2"
+              ],
+              "description": "70\nDuring your opponent's next turn, the Defending Pokemon can't attack."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 083",
+      "name": "Articuno",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ice Beam",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "60\nFlip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 084",
+      "name": "Articuno ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ice Wing",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          },
+          {
+              "name": "Blizzard",
+              "cost": [
+                  "Water 3"
+              ],
+              "description": "80\nThis attack also does 10 damage to each of your opponent’s Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 085",
+      "name": "Ducklett",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flap",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 086",
+      "name": "Swanna",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Wing Attack",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 087",
+      "name": "Froakie",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Flop",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 088",
+      "name": "Frogadier",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Drop",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 089",
+      "name": "Greninja",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Water Shuriken",
+          "description": "Once during your turn, you may do 20 damage to 1 of your opponent’s Pokemon."
+      },
+      "attacks": [
+          {
+              "name": "Mist Slash",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 090",
+      "name": "Pyukumuku",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rain Splash",
+              "cost": [
+                  "Water"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 091",
+      "name": "Bruxish",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Second Strike",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "10+\nIf your opponent's Active Pokemon has damage on it, this attack does 60 more damage"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 092",
+      "name": "Snom",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ram",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 093",
+      "name": "Frosmoth",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Powder Snow",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40\nYour opponent's Active Pokemon is now Asleep."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 094",
+      "name": "Pikachu",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gnaw",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 095",
+      "name": "Raichu",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Thunderbolt",
+              "cost": [
+                  "Lightning 3"
+              ],
+              "description": "140\nDiscard all Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 096",
+      "name": "Pikachu ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Circle Circuit",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "30x\nThis attack does 30 damage for each of your Benched Lightning Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 097",
+      "name": "Magnemite",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Lightning Ball",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 098",
+      "name": "Magneton",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Volt Charge",
+          "description": "Once during your turn, you may take an Electric Energy from your Energy Zone and attach it to this Pokemon."
+      },
+      "attacks": [
+          {
+              "name": "Spinning Attack",
+              "cost": [
+                  "Lightning",
+                  "Colorless 3"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 099",
+      "name": "Voltorb",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 100",
+      "name": "Electrode",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Electro Ball",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 101",
+      "name": "Electabuzz",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Thunder Punch",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "40+\nFlip a coin. If heads, this attack does 40 more damage. If tails, this Pokemon also does 20 damage to itself."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 102",
+      "name": "Jolteon",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pin Missile",
+              "cost": [
+                  "Lightning",
+                  "Colorless"
+              ],
+              "description": "40x\nFlip 4 coins. This attack does 40 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 103",
+      "name": "Zapdos",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Raging Thgunder",
+              "cost": [
+                  "Lightning 2",
+                  "Colorless"
+              ],
+              "description": "100\nThis attack also does 30 damage to 1 of your Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 104",
+      "name": "Zapdos ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          },
+          {
+              "name": "Thundering Hurricane",
+              "cost": [
+                  "Lightning 3"
+              ],
+              "description": "50x\nFlip 4 coins. This attack does 50 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 105",
+      "name": "Blitzle",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Zap Kick",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 106",
+      "name": "Zebstrika",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Thunder Spear",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "This attack does 30 damage to 1 of your opponent's Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 107",
+      "name": "Tynamo",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Lightning",
+      "hp": 30,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tiny Charge",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 108",
+      "name": "Eelektrik",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Head Bolt",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 109",
+      "name": "Eelektross",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Thunder Fang",
+              "cost": [
+                  "Lightning 2",
+                  "Colorless"
+              ],
+              "description": "80\nFlip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 110",
+      "name": "Helioptile",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Whap",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 111",
+      "name": "Heliolisk",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Quick Attack",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "40+\nFlip a coin. If heads, this attack does 40 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 112",
+      "name": "Pincurchin",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Thunder Shock",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "30\nFlip a coin. If heads, your opponent’s Active Pokemon is now Paralyzed."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 113",
+      "name": "Clefairy",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slap",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 114",
+      "name": "Clefable",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Magical Shot",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 115",
+      "name": "Abra",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Teleport",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "Switch this Pokemon with 1 of your Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 116",
+      "name": "Kadabra",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Super Psy Bolt",
+              "cost": [
+                  "Psychic",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 117",
+      "name": "Alakazam",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic",
+              "cost": [
+                  "Psychic",
+                  "Colorless 2"
+              ],
+              "description": "60+\nThis attack does 30 more damage for each Energy attached to your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 118",
+      "name": "Slowpoke",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Whap",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 119",
+      "name": "Slowbro",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Super Psy Bolt",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless"
+              ],
+              "description": "80"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 120",
+      "name": "Gastly",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Suffocating Gas",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 121",
+      "name": "Haunter",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Will-O-Wisp",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 122",
+      "name": "Gengar",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bother",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "50\nYour opponent can't use any Supporter cards from their hand during their next turn."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 123",
+      "name": "Gengar ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Stage 2",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Shadowy Spellbind",
+          "description": "As long as this Pokemon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      },
+      "attacks": [
+          {
+              "name": "Spooky Shot",
+              "cost": [
+                  "Psychic 3"
+              ],
+              "description": "100"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 124",
+      "name": "Drowzee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mumble",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 125",
+      "name": "Hypno",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Sleep Pendulum",
+          "description": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokemon is now Asleep."
+      },
+      "attacks": [
+          {
+              "name": "Psypunch",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless"
+              ],
+              "description": "50"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 126",
+      "name": "Mr. Mime",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Barrier Attack",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30\nDuring your opponent's next turn, this Pokemon takes -20 damage from attacks."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 127",
+      "name": "Jynx",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30+\nThis attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 128",
+      "name": "Mewtwo",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Power Blast",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "120\nDiscard 2 Psychic Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 129",
+      "name": "Mewtwo ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic Sphere",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "50"
+          },
+          {
+              "name": "Psydrive",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "150\nDiscard 2 Psychic Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 130",
+      "name": "Ralts",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ram",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 131",
+      "name": "Kirlia",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Smack",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 132",
+      "name": "Gardevoir",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 110,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Psy Shadow",
+          "description": "Once during your turn, you may take 1 Psychic Energy from your Energy Zone and attach it to the Psychic Pokemon in the Active Spot."
+      },
+      "attacks": [
+          {
+              "name": "Psyshot",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 133",
+      "name": "Woobat",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gnaw",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 134",
+      "name": "Swoobat",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Heart Stamp",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 135",
+      "name": "Golett",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mega Punch",
+              "cost": [
+                  "Psychic",
+                  "Colorless 2"
+              ],
+              "description": "50"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 136",
+      "name": "Golurk",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Double Lariat",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "100x\nFlip 2 coins. This attack does 100 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 137",
+      "name": "Sandshrew",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Scratch",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 138",
+      "name": "Sandslash",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Fighting 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 139",
+      "name": "Diglett",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mud-Slap",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 140",
+      "name": "Dugtrio",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Dig",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "40\nFlip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 141",
+      "name": "Mankey",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Low Kick",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 142",
+      "name": "Primeape",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fight Back",
+              "cost": [
+                  "Fighting 2"
+              ],
+              "description": "40+\nIf this Pokemon has damage on it, this attack does 60 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 143",
+      "name": "Machop",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Knuckle Punch",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 144",
+      "name": "Machoke",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Strength",
+              "cost": [
+                  "Fighting 2"
+              ],
+              "description": "50"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 145",
+      "name": "Machamp",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Seismic Toss",
+              "cost": [
+                  "Fighting 3"
+              ],
+              "description": "100"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 146",
+      "name": "Machamp ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mega Punch",
+              "cost": [
+                  "Fighting 3"
+              ],
+              "description": "120"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 147",
+      "name": "Geodude",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 148",
+      "name": "Graveler",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rollout",
+              "cost": [
+                  "Fighting",
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 149",
+      "name": "Golem",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 160,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Double-Edge",
+              "cost": [
+                  "Fighting",
+                  "Colorless 3"
+              ],
+              "description": "150\nThis Pokemon also does 50 damage to itself."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 150",
+      "name": "Onix",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 110,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Land Crush",
+              "cost": [
+                  "Fighting 3"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 151",
+      "name": "Cubone",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Growl",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "During your opponent’s next turn, attacks used by the Defending Pokemon do 20 less damage (before applying Weakness)."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 152",
+      "name": "Marowak",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bone Beatdown",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 153",
+      "name": "Marowak ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bonemerang",
+              "cost": [
+                  "Fighting 2"
+              ],
+              "description": "80x\nFlip 2 coins. This attack does 80 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 154",
+      "name": "Hitmonlee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Stretch Kick",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "80\nThis attack does 30 damage to 1 of your opponent’s Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 155",
+      "name": "Hitmonchan",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Jab",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 156",
+      "name": "Rhyhorn",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Fighting 2",
+                  "Colorless"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 157",
+      "name": "Rhydon",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Horn Drill",
+              "cost": [
+                  "Fighting 3",
+                  "Colorless"
+              ],
+              "description": "100"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 158",
+      "name": "Kabuto",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Shell Attack",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 159",
+      "name": "Kabutops",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Leech Life",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "50\nHeal from this Pokemon the same amount of damage you did to your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 160",
+      "name": "Mienfoo",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pound",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 161",
+      "name": "Mienshao",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Spiral Kick",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 162",
+      "name": "Clobbopus",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Knuckle Punch",
+              "cost": [
+                  "Fighting",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 163",
+      "name": "Grapploct",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Knock Back",
+              "cost": [
+                  "Fighting 2",
+                  "Colorless"
+              ],
+              "description": "70\nSwitch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 164",
+      "name": "Ekans",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bite",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 165",
+      "name": "Arbok",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Corner",
+              "cost": [
+                  "Darkness",
+                  "Colorless"
+              ],
+              "description": "60\nDuring your opponent's next turn, the Defending Pokemon can't retreat."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 166",
+      "name": "Nidoran F",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Call for Family",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "Put 1 random Nidoran M from your deck onto your Bench."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 167",
+      "name": "Nidorina",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bite",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 168",
+      "name": "Nidoqueen",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Lovestrike",
+              "cost": [
+                  "Darkness 2",
+                  "Colorless"
+              ],
+              "description": "80+\nThis attack does 50 more damage for each of your Benched Nidoking."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 169",
+      "name": "Nidoran M",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 170",
+      "name": "Nidorino",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Horn Attack",
+              "cost": [
+                  "Darkness",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 171",
+      "name": "Nidoking",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Poison Horn",
+              "cost": [
+                  "Darkness 2",
+                  "Colorless"
+              ],
+              "description": "90\nYour opponent's Active Pokemon is now Poisoned."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 172",
+      "name": "Zubat",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Glide",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 173",
+      "name": "Golbat",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 40,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Wing Attack",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 174",
+      "name": "Grimer",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Poison Gas",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "10\nYour opponent’s Active Pokemon is now Poisoned."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 175",
+      "name": "Muk",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Venoshock",
+              "cost": [
+                  "Darkness 2",
+                  "Colorless"
+              ],
+              "description": "70+\nIf your opponent's Active Pokemon is Poisoned, this attack does 50 damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 176",
+      "name": "Koffing",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Suffocating Gas",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 177",
+      "name": "Weezing",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": {
+          "name": "Gas Leak",
+          "description": "Once during your turn, if this Pokemon is in the Active Spot, you may make your opponent's Active Pokemon Poisoned."
+      },
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 178",
+      "name": "Mawile",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Crunch",
+              "cost": [
+                  "Metal"
+              ],
+              "description": "20\nFlip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 179",
+      "name": "Pawniard",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Metal",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pierce",
+              "cost": [
+                  "Metal"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 180",
+      "name": "Bisharp",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Metal Claw",
+              "cost": [
+                  "Metal 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 181",
+      "name": "Meltan",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Amass",
+              "cost": [
+                  "Metal"
+              ],
+              "description": "Take 1 Metal Energy from your Energy Zone and attach it to this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 182",
+      "name": "Melmetal",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Metal",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": {
+          "name": "Hard Coat",
+          "description": "This Pokemon takes -20 damage from attacks."
+      },
+      "attacks": [
+          {
+              "name": "Heavy Impact",
+              "cost": [
+                  "Metal 3",
+                  "Colorless"
+              ],
+              "description": "120"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 183",
+      "name": "Dratini",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Dragon",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ram",
+              "cost": [
+                  "Water",
+                  "Lightning"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 184",
+      "name": "Dragonair",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Smack",
+              "cost": [
+                  "Water",
+                  "Lightning",
+                  "Colorless"
+              ],
+              "description": "80"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 185",
+      "name": "Dragonite",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Dragon",
+      "hp": 160,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Draco Meteor",
+              "cost": [
+                  "Water",
+                  "Lightning",
+                  "Colorless 2"
+              ],
+              "description": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 50 damage to it."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 186",
+      "name": "Pidgey",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gust",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 187",
+      "name": "Pidgeotto",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gust",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 188",
+      "name": "Pidgeot",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage 2",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Drive Off",
+          "description": "Once during your turn, you may switch out your opponent’s Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+      },
+      "attacks": [
+          {
+              "name": "Wing Attack",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 189",
+      "name": "Rattata",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 40,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gnaw",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 190",
+      "name": "Raticate",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bite",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 191",
+      "name": "Spearow",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 192",
+      "name": "Fearow",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Drill Run",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "50\nFlip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 193",
+      "name": "Jigglypuff",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pound",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 194",
+      "name": "Wigglytuff",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hyper Voice",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 195",
+      "name": "Wigglytuff ex",
+      "rarity": "◇◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sleepy Song",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "80\nYour opponent's Active Pokemon is now Asleep."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 196",
+      "name": "Meowth",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pay Day",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10\nDraw 1 card."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 197",
+      "name": "Persian",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Shadow Claw",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "40\nFlip a coin. If heads, discard a random card from your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 198",
+      "name": "Farfetch'd",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Leek Slap",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 199",
+      "name": "Doduo",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 200",
+      "name": "Dodrio",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Drill Peck",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 201",
+      "name": "Lickitung",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Continuous Lick",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "60x\nFlip a coin until you get tails. This attack does 60 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 202",
+      "name": "Chansey",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Gentle Slap",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "60"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 203",
+      "name": "Kangaskhan",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Dizzy Punch",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "30x\nFlip 2 coins. This attack does 30 more damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 204",
+      "name": "Tauros",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Horn Attack",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "50"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 205",
+      "name": "Ditto",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Copy Anything",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 206",
+      "name": "Eevee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 207",
+      "name": "Eevee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 208",
+      "name": "Eevee",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 209",
+      "name": "Porygon",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Data Scan",
+          "description": "Once during your turn, you may look at the top card of your deck."
+      },
+      "attacks": [
+          {
+              "name": "Sharpen",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 210",
+      "name": "Aerodactyl",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Primal Wingbeat",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "Flip a coin. If heads, your opponent shuffles their Active Pokemon back into their deck."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 211",
+      "name": "Snorlax",
+      "rarity": "◇◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 150,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rollout",
+              "cost": [
+                  "Colorless 4"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 212",
+      "name": "Minccino",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Smack",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 213",
+      "name": "Cinccino",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage 1",
+      "packPoints": 70,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Do the Wave",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "30x\nThis attack does 30 damage for each of your Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 214",
+      "name": "Wooloo",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 215",
+      "name": "Dubwool",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Stage 1",
+      "packPoints": 35,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rolling Tackle",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "80"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 216",
+      "name": "Helix Fossil",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Item",
+      "hp": null,
+      "stage": null,
+      "packPoints": 35,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Play this card as if it were a 40-HP Basic Colorless Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat."
+  },
+  {
+      "id": "A1 217",
+      "name": "Dome Fossil",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Item",
+      "hp": null,
+      "stage": null,
+      "packPoints": 35,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Play this card as if it were a 40-HP Basic Colorless Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat."
+  },
+  {
+      "id": "A1 218",
+      "name": "Old Amber",
+      "rarity": "◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Item",
+      "hp": null,
+      "stage": null,
+      "packPoints": 35,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Play this card as if it were a 40-HP Basic Colorless Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat."
+  },
+  {
+      "id": "A1 219",
+      "name": "Erika",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Heal 50 damage from 1 of your Grass Pokemon."
+  },
+  {
+      "id": "A1 220",
+      "name": "Misty",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Choose 1 of your Water Pokemon, and flip a coin until you get tails. For each heads, take a Water Energy from your Energy Zone and attach it to that Pokemon."
+  },
+  {
+      "id": "A1 221",
+      "name": "Blaine",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokemon."
+  },
+  {
+      "id": "A1 222",
+      "name": "Koga",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Put your Muk or Weezing in the Active Spot into your hand."
+  },
+  {
+      "id": "A1 223",
+      "name": "Giovanni",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "During this turn, attacks used by your Pokemon do +10 damage to your opponent's Active Pokemon."
+  },
+  {
+      "id": "A1 224",
+      "name": "Brock",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Take a Fighting Energy from your Energy Zone and attach it to Golem or Onix."
+  },
+  {
+      "id": "A1 225",
+      "name": "Sabrina",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Switch out your opponent’s Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+  },
+  {
+      "id": "A1 226",
+      "name": "Lt. Surge",
+      "rarity": "◇◇",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 70,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Move all Electric Energy from your Benched Pokemon to your Raichu, Electrode, or Electabuzz in the Active Spot."
+  },
+  {
+      "id": "A1 227",
+      "name": "Bulbasaur",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Vine Whip",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 228",
+      "name": "Gloom",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Drool",
+              "cost": [
+                  "Grass",
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 229",
+      "name": "Pinsir",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Double Horn",
+              "cost": [
+                  "Grass 2"
+              ],
+              "description": "50x\nFlip 2 coins. This attack does 50 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 230",
+      "name": "Charmander",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ember",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "30\nDiscard a Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 231",
+      "name": "Rapidash",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Fire Mane",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 232",
+      "name": "Squirtle",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Water Gun",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 233",
+      "name": "Gyarados",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 150,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hyper Beam",
+              "cost": [
+                  "Water 4"
+              ],
+              "description": "100\nDiscard a random Energy from your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 234",
+      "name": "Lapras",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hydro Pump",
+              "cost": [
+                  "Water"
+              ],
+              "description": "20\nIf this Pokemon has at least 3 extra Water Energy attached, this attack does 70 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 235",
+      "name": "Electrode",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Electro Ball",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 236",
+      "name": "Alakazam",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage 2",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic",
+              "cost": [
+                  "Psychic",
+                  "Colorless 2"
+              ],
+              "description": "60+\nThis attack does 30 more damage for each Energy attached to your opponent's Active Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 237",
+      "name": "Slowpoke",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tail Whap",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 238",
+      "name": "Diglett",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fighting",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mud-Slap",
+              "cost": [
+                  "Fighting"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 239",
+      "name": "Cubone",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Growl",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "During your opponent’s next turn, attacks used by the Defending Pokemon do 20 less damage (before applying Weakness)."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 240",
+      "name": "Nidoqueen",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 140,
+      "stage": "Stage 2",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Lovestrike",
+              "cost": [
+                  "Darkness 2",
+                  "Colorless"
+              ],
+              "description": "80+\nThis attack does 50 more damage for each of your Benched Nidoking."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 241",
+      "name": "Nidoking",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Darkness",
+      "hp": 150,
+      "stage": "Stage 2",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Poison Horn",
+              "cost": [
+                  "Darkness 2",
+                  "Colorless"
+              ],
+              "description": "90\nYour opponent's Active Pokemon is now Poisoned."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 242",
+      "name": "Golbat",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 40,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Wing Attack",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "40"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 243",
+      "name": "Weezing",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage 1",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": {
+          "name": "Gas Leak",
+          "description": "Once during your turn, if this Pokemon is in the Active Spot, you may make your opponent's Active Pokemon Poisoned."
+      },
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Darkness"
+              ],
+              "description": "30"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 244",
+      "name": "Dragonite",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Dragon",
+      "hp": 160,
+      "stage": "Stage 2",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Draco Meteor",
+              "cost": [
+                  "Water",
+                  "Lightning",
+                  "Colorless 2"
+              ],
+              "description": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 50 damage to it."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 245",
+      "name": "Pidgeot",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage 2",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Drive Off",
+          "description": "Once during your turn, you may switch out your opponent’s Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+      },
+      "attacks": [
+          {
+              "name": "Wing Attack",
+              "cost": [
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 246",
+      "name": "Meowth",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Pay Day",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "10\nDraw 1 card."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 247",
+      "name": "Ditto",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Copy Anything",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 248",
+      "name": "Eevee",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tackle",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 249",
+      "name": "Porygon",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": {
+          "name": "Data Scan",
+          "description": "Once during your turn, you may look at the top card of your deck."
+      },
+      "attacks": [
+          {
+              "name": "Sharpen",
+              "cost": [
+                  "Colorless"
+              ],
+              "description": "20"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 250",
+      "name": "Snorlax",
+      "rarity": "☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 400,
+      "retreat": [
+          "https://img.game8.co/3998556/3831ed9a23dbc9db0da4254334165863.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Rollout",
+              "cost": [
+                  "Colorless 4"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 251",
+      "name": "Venusaur ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Grass",
+      "hp": 190,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Razor Leaf",
+              "cost": [
+                  "Grass",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Giant Bloom",
+              "cost": [
+                  "Grass 2",
+                  "Colorless 2"
+              ],
+              "description": "100\nHeal 30 damage from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 252",
+      "name": "Exeggutor ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Grass",
+      "hp": 160,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Tropical Swing",
+              "cost": [
+                  "Grass"
+              ],
+              "description": "40+\nFlip a coin. If heads, this attack does 40 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 253",
+      "name": "Charizard ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Crimson Storm",
+              "cost": [
+                  "Fire 2",
+                  "Colorless 2"
+              ],
+              "description": "200\nDiscard 2 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 254",
+      "name": "Arcanine ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Inferno Onrush",
+              "cost": [
+                  "Fire 2",
+                  "Colorless"
+              ],
+              "description": "120\nThis Pokemon also does 20 damage to itself."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 255",
+      "name": "Moltres ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Inferno Dance",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokemon in any way you like."
+          },
+          {
+              "name": "Heat Blast",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 256",
+      "name": "Blastoise ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Surf",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          },
+          {
+              "name": "Hydro Bazooka",
+              "cost": [
+                  "Water 2",
+                  "Colorless"
+              ],
+              "description": "100+\nIf this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 257",
+      "name": "Starmie ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998614/b92af68265b2e7623de5efdf8197a9bf.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Hydro Splash",
+              "cost": [
+                  "Water 2"
+              ],
+              "description": "90"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 258",
+      "name": "Articuno ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ice Wing",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          },
+          {
+              "name": "Blizzard",
+              "cost": [
+                  "Water 3"
+              ],
+              "description": "80\nThis attack also does 10 damage to each of your opponent’s Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 259",
+      "name": "Pikachu ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Circle Circuit",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "30x\nThis attack does 30 damage for each of your Benched Lightning Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 260",
+      "name": "Zapdos ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          },
+          {
+              "name": "Thundering Hurricane",
+              "cost": [
+                  "Lightning 3"
+              ],
+              "description": "50x\nFlip 4 coins. This attack does 50 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 261",
+      "name": "Gengar ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Shadowy Spellbind",
+          "description": "As long as this Pokemon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      },
+      "attacks": [
+          {
+              "name": "Spooky Shot",
+              "cost": [
+                  "Psychic 3"
+              ],
+              "description": "100"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 262",
+      "name": "Mewtwo ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic Sphere",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "50"
+          },
+          {
+              "name": "Psydrive",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "150\nDiscard 2 Psychic Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 263",
+      "name": "Machamp ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mega Punch",
+              "cost": [
+                  "Fighting 3"
+              ],
+              "description": "120"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 264",
+      "name": "Marowak ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Bonemerang",
+              "cost": [
+                  "Fighting 2"
+              ],
+              "description": "80x\nFlip 2 coins. This attack does 80 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 265",
+      "name": "Wigglytuff ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sleepy Song",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "80\nYour opponent's Active Pokemon is now Asleep."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 266",
+      "name": "Erika",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Heal 50 damage from 1 of your Grass Pokemon."
+  },
+  {
+      "id": "A1 267",
+      "name": "Misty",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Choose 1 of your Water Pokemon, and flip a coin until you get tails. For each heads, take a Water Energy from your Energy Zone and attach it to that Pokemon."
+  },
+  {
+      "id": "A1 268",
+      "name": "Blaine",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokemon."
+  },
+  {
+      "id": "A1 269",
+      "name": "Koga",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Put your Muk or Weezing in the Active Spot into your hand."
+  },
+  {
+      "id": "A1 270",
+      "name": "Giovanni",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "During this turn, attacks used by your Pokemon do +10 damage to your opponent's Active Pokemon."
+  },
+  {
+      "id": "A1 271",
+      "name": "Brock",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Take a Fighting Energy from your Energy Zone and attach it to Golem or Onix."
+  },
+  {
+      "id": "A1 272",
+      "name": "Sabrina",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Switch out your opponent’s Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+  },
+  {
+      "id": "A1 273",
+      "name": "Lt. Surge",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Supporter",
+      "hp": null,
+      "stage": null,
+      "packPoints": 1250,
+      "retreat": null,
+      "ability": null,
+      "attacks": [],
+      "effect": "Move all Electric Energy from your Benched Pokemon to your Raichu, Electrode, or Electabuzz in the Active Spot."
+  },
+  {
+      "id": "A1 274",
+      "name": "Moltres ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Inferno Dance",
+              "cost": [
+                  "Fire"
+              ],
+              "description": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokemon in any way you like."
+          },
+          {
+              "name": "Heat Blast",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "70"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 275",
+      "name": "Articuno ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Water",
+      "hp": 140,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Ice Wing",
+              "cost": [
+                  "Water",
+                  "Colorless"
+              ],
+              "description": "40"
+          },
+          {
+              "name": "Blizzard",
+              "cost": [
+                  "Water 3"
+              ],
+              "description": "80\nThis attack also does 10 damage to each of your opponent’s Benched Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 276",
+      "name": "Zapdos ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Peck",
+              "cost": [
+                  "Lightning"
+              ],
+              "description": "20"
+          },
+          {
+              "name": "Thundering Hurricane",
+              "cost": [
+                  "Lightning 3"
+              ],
+              "description": "50x\nFlip 4 coins. This attack does 50 damage for each heads."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 277",
+      "name": "Gengar ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": {
+          "name": "Shadowy Spellbind",
+          "description": "As long as this Pokemon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      },
+      "attacks": [
+          {
+              "name": "Spooky Shot",
+              "cost": [
+                  "Psychic 3"
+              ],
+              "description": "100"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 278",
+      "name": "Machamp ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fighting",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998539/6bb558f97aac02e469e3ddc06e2ac167.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Mega Punch",
+              "cost": [
+                  "Fighting 3"
+              ],
+              "description": "120"
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 279",
+      "name": "Wigglytuff ex",
+      "rarity": "☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage 1",
+      "packPoints": 1250,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Sleepy Song",
+              "cost": [
+                  "Colorless 3"
+              ],
+              "description": "80\nYour opponent's Active Pokemon is now Asleep."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 280",
+      "name": "Charizard ex",
+      "rarity": "☆☆☆",
+      "pack": "Genetic Apex (A1)  Charizard",
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 1500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Crimson Storm",
+              "cost": [
+                  "Fire 2",
+                  "Colorless 2"
+              ],
+              "description": "200\nDiscard 2 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 281",
+      "name": "Pikachu ex",
+      "rarity": "☆☆☆",
+      "pack": "Genetic Apex (A1)  Pikachu",
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 1500,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Circle Circuit",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "30x\nThis attack does 30 damage for each of your Benched Lightning Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 282",
+      "name": "Mewtwo ex",
+      "rarity": "☆☆☆",
+      "pack": "Genetic Apex (A1)  Mewtwo",
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 1500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic Sphere",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "50"
+          },
+          {
+              "name": "Psydrive",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "150\nDiscard 2 Psychic Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 283",
+      "name": "Mew",
+      "rarity": "☆☆☆",
+      "pack": "Genetic Apex (A1)  Special",
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "packPoints": null,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psy Report",
+              "cost": [
+                  "Psychic"
+              ],
+              "description": "20\nYour opponent reveals their hand."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 284",
+      "name": "Charizard ex",
+      "rarity": "♛",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage 2",
+      "packPoints": 2500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Slash",
+              "cost": [
+                  "Fire",
+                  "Colorless 2"
+              ],
+              "description": "60"
+          },
+          {
+              "name": "Crimson Storm",
+              "cost": [
+                  "Fire 2",
+                  "Colorless 2"
+              ],
+              "description": "200\nDiscard 2 Fire Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 285",
+      "name": "Pikachu ex",
+      "rarity": "♛",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "packPoints": 2500,
+      "retreat": [
+          "https://img.game8.co/3994730/6e5546e2fbbc5a029ac79acf2b2b8042.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Circle Circuit",
+              "cost": [
+                  "Lightning 2"
+              ],
+              "description": "30x\nThis attack does 30 damage for each of your Benched Lightning Pokemon."
+          }
+      ],
+      "effect": null
+  },
+  {
+      "id": "A1 286",
+      "name": "Mewtwo ex",
+      "rarity": "♛",
+      "pack": "Genetic Apex (A1)  Any",
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "packPoints": 2500,
+      "retreat": [
+          "https://img.game8.co/3998538/eea8469456d6b7ea7a2daf2995087d00.png/show"
+      ],
+      "ability": null,
+      "attacks": [
+          {
+              "name": "Psychic Sphere",
+              "cost": [
+                  "Psychic",
+                  "Colorless"
+              ],
+              "description": "50"
+          },
+          {
+              "name": "Psydrive",
+              "cost": [
+                  "Psychic 2",
+                  "Colorless 2"
+              ],
+              "description": "150\nDiscard 2 Psychic Energy from this Pokemon."
+          }
+      ],
+      "effect": null
+  }
+]
