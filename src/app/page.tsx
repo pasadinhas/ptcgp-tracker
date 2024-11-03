@@ -2,14 +2,21 @@
 
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
-import { OwnedCards, RarityMap, PackOdds } from "./types";
+import { OwnedCards, RarityMap, PackOdds, CardsMap, Card } from "./types";
 import odds from "./odds";
+import A1 from "../data/A1.json"
+import Constants from "./constants";
 
 const LOCAL_STORAGE_OWNED_CARDS_KEY = "pkmn-tcgp-tracker.owned-cards";
 
+const A1_CARDS_MAP: CardsMap = A1.reduce((map: CardsMap, card: Card) => {
+  map[(card.id.match(/^A1 0*(\d+)$/) || [])[1]] = card
+  return map
+}, {})
+
 export default function Home() {
   const [ownedCards, setOwnedCards] = useState<OwnedCards>({ A1: {} });
-  
+
   useEffect(() => {
     const storedOwnedCards = localStorage.getItem(LOCAL_STORAGE_OWNED_CARDS_KEY);
     if (storedOwnedCards != null) {
@@ -33,9 +40,9 @@ export default function Home() {
             key={`A1_${id}`}
             id={id}
             amount={ownedCards.A1[id] || 0}
+            card={A1_CARDS_MAP[id]}
             increaseQuantity={() => {
               ownedCards.A1[id] = (ownedCards.A1[id] || 0) + 1;
-              console.log(ownedCards.A1);
               saveOwnedCards(ownedCards);
             }}
             decreaseQuantity={() => {
@@ -52,15 +59,24 @@ export default function Home() {
 interface DexItemProps {
   id: string;
   amount: number;
+  card: Card;
   increaseQuantity: () => void;
   decreaseQuantity: () => void;
 }
 
-function DexItem({ id, amount, increaseQuantity, decreaseQuantity }: DexItemProps) {
+function DexItem({ id, amount, card, increaseQuantity, decreaseQuantity }: DexItemProps) {  
+  const packs = ({
+    [Constants.A1_PACK_MEWTWO]: ["mewtwo"],
+    [Constants.A1_PACK_PIKACHU]: ["pikachu"],
+    [Constants.A1_PACK_CHARIZARD]: ["charizard"],
+    [Constants.A1_PACK_SPECIAL]: [],
+    [Constants.A1_PACK_ANY]: ["mewtwo", "pikachu", "charizard"],
+
+  })[card.pack]
   return (
     <div className="grid justify-center gap-3 shadow-xl bg-slate-300 p-3 rounded-lg">
       <div className="flex justify-center gap-3 relative">
-        {[["mewtwo"], ["pikachu"], ["charizard"], ["mewtwo", "pikachu", "charizard"]][Math.floor(Math.random() * 4)].map((pack) => (
+        {packs.map((pack) => (
           <Image
             key={`card_A1_${id}_pack_${pack}`}
             src={`/ptcgp-tracker/static/pokemon/sets/A1/packs/${pack}.png`}
@@ -97,14 +113,17 @@ function DexItem({ id, amount, increaseQuantity, decreaseQuantity }: DexItemProp
 
 function PackOdds({ ownedCards }: { ownedCards: OwnedCards }) {
   const packsOdds = useMemo(() => odds(ownedCards), [ownedCards]);
-  console.log({packsOdds})
 
-  return <div className="grid grid-cols-10 mb-10">
-    <span>Pack</span>
-    {Object.keys(packsOdds.mewtwo.packsUntilFirstNewCard).map(rarity => <span>{rarity}</span>)}
-    {Object.entries(packsOdds).flatMap(([packName, pOdds]: [string, PackOdds]) => [
+  return (
+    <div className="grid grid-cols-10 mb-10">
+      <span>Pack</span>
+      {Object.keys(packsOdds.mewtwo.packsUntilFirstNewCard).map((rarity) => (
+        <span>{rarity}</span>
+      ))}
+      {Object.entries(packsOdds).flatMap(([packName, pOdds]: [string, PackOdds]) => [
         <td>{packName}</td>,
-        ...Object.values(pOdds.packsUntilFirstNewCard).map(odd => <td>{odd}</td>)
+        ...Object.values(pOdds.packsUntilFirstNewCard).map((odd) => <td>{odd}</td>),
       ])}
-  </div>
+    </div>
+  );
 }

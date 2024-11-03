@@ -21,3 +21,11 @@ export interface PackOddsSetA1 {
   pikachu: PackOdds;
   charizard: PackOdds;
 }
+
+import A1 from "../data/A1.json"
+export type SetData = typeof A1;
+export type Card = SetData[0];
+
+export interface CardsMap {
+  [id: string]: Card
+}

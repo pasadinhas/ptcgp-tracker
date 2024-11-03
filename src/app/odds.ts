@@ -1,8 +1,6 @@
 import A1 from "../data/A1.json";
-import { OwnedCards, PackOddsSetA1, RarityMap } from "./types";
+import { Card, OwnedCards, PackOddsSetA1, RarityMap, SetData } from "./types";
 import Constants from "./constants"
-type SetData = typeof A1;
-type Card = SetData[0];
 
 interface PackDefinition {
   [rarity: string]: Card[];
