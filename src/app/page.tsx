@@ -94,6 +94,7 @@ function DexItem({ id, amount, card, increaseQuantity, decreaseQuantity }: DexIt
         height={410}
         className={`shadow-lg rounded-lg ${amount == 0 && "brightness-50 grayscale-[50%]"}`}
       ></Image>
+      <span className="text-center text-sm">{card.name}</span>
       <div className="flex justify-center select-none">
         <span className="rounded-l-lg bg-slate-400 px-5 py-1 cursor-pointer hover:bg-slate-500 active:bg-slate-600" onClick={decreaseQuantity}>
           -
