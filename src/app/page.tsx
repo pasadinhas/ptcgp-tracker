@@ -34,6 +34,7 @@ export default function Home() {
       <div>
         <PackOddsGrid ownedCards={ownedCards} />
       </div>
+      <h1 className="text-xl font-bold mb-3 mt-5">Pokedex</h1>
       <div className="grid 2xl:grid-cols-8 xl:grid-cols-6 lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 grid-rows-auto auto-cols-min gap-x-5 gap-y-5">
         {Array.from({ length: 286 }, (_, i) => `${i + 1}`).map((id) => (
           <DexItem
@@ -114,9 +115,11 @@ function DexItem({ id, amount, card, increaseQuantity, decreaseQuantity }: DexIt
 
 function PackOddsGrid({ ownedCards }: { ownedCards: OwnedCards }) {
   const packsOdds = useMemo(() => odds(ownedCards), [ownedCards]);
+  const packsExclusivesOdds = useMemo(() => odds(ownedCards, true), [ownedCards]);
 
-  return (
-    <div className="grid grid-cols-10 mb-10">
+  return (<>
+      <h1 className="text-xl font-bold mb-3 mt-5">Packs until new card</h1>
+      <div className="grid grid-cols-10 mb-10">
       <span>Pack</span>
       {Object.keys(packsOdds.mewtwo.packsUntilFirstNewCard).map((rarity) => (
         <span key={rarity}>{rarity}</span>
@@ -126,5 +129,17 @@ function PackOddsGrid({ ownedCards }: { ownedCards: OwnedCards }) {
         ...Object.values(pOdds.packsUntilFirstNewCard).map((odd, i) => <span key={`odds-${packName}-${i}`}>{odd}</span>),
       ])}
     </div>
+    <h1 className="text-xl font-bold mb-3 mt-5">Packs until new pack-exclusive card</h1>
+    <div className="grid grid-cols-10 mb-10">
+      <span>Pack</span>
+      {Object.keys(packsExclusivesOdds.mewtwo.packsUntilFirstNewCard).map((rarity) => (
+        <span key={rarity}>{rarity}</span>
+      ))}
+      {Object.entries(packsExclusivesOdds).flatMap(([packName, pOdds]: [string, PackOdds]) => [
+        <span key={`odds-${packName}`}>{packName}</span>,
+        ...Object.values(pOdds.packsUntilFirstNewCard).map((odd, i) => <span key={`odds-${packName}-${i}`}>{odd}</span>),
+      ])}
+    </div>
+    </>
   );
 }

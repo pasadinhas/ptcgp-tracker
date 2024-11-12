@@ -99,7 +99,7 @@ const RARITY_MAP_ZERO_INIT: RarityMap = Object.freeze({
   [Constants.RARITY_ANY]: 0,
 });
 
-function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards, rolls: number) {
+function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards, rolls: number, packExclusiveOnly: boolean) {
   const newCardsCount: RarityMap = { ...RARITY_MAP_ZERO_INIT };
   const newRaritiesCount: RarityMap = { ...RARITY_MAP_ZERO_INIT };
 
@@ -109,7 +109,8 @@ function regularPackOdds(pack_definition: PackDefinition, ownedCards: OwnedCards
     const packedIds = new Set<string>();
     const packedRarities = new Set<string>();
 
-    const newCards = pack.filter((card) => !(ownedCards.A1[idMapper(card.id)] || packedIds.has(card.id)) && packedIds.add(card.id));
+    const newCards = pack.filter((card) => !(ownedCards.A1[idMapper(card.id)] || packedIds.has(card.id)) && packedIds.add(card.id))
+      .filter(card => !(packExclusiveOnly && card.pack == Constants.A1_PACK_ANY));
 
     newCards.forEach((card) => {
       newCardsCount[card.rarity] += 1;
@@ -146,10 +147,10 @@ const A1_PACK_MEWTWO_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_MEW
 const A1_PACK_PIKACHU_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_PIKACHU);
 const A1_PACK_CHARIZARD_DEFINITION = createPackDefinition(A1, Constants.A1_PACK_CHARIZARD);
 
-export default function odds(ownedCards: OwnedCards, rolls: number = 100_000): PackOddsSetA1 {
+export default function odds(ownedCards: OwnedCards, packExclusiveOnly: boolean = false, rolls: number = 100_000): PackOddsSetA1 {
   return {
-    mewtwo: regularPackOdds(A1_PACK_MEWTWO_DEFINITION, ownedCards, rolls),
-    pikachu: regularPackOdds(A1_PACK_PIKACHU_DEFINITION, ownedCards, rolls),
-    charizard: regularPackOdds(A1_PACK_CHARIZARD_DEFINITION, ownedCards, rolls),
+    mewtwo: regularPackOdds(A1_PACK_MEWTWO_DEFINITION, ownedCards, rolls, packExclusiveOnly),
+    pikachu: regularPackOdds(A1_PACK_PIKACHU_DEFINITION, ownedCards, rolls, packExclusiveOnly),
+    charizard: regularPackOdds(A1_PACK_CHARIZARD_DEFINITION, ownedCards, rolls, packExclusiveOnly),
   };
 }
